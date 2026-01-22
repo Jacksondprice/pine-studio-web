@@ -1,0 +1,8 @@
+apiVersion: bitnami.com/v1alpha1
+kind: SealedSecret
+metadata:
+  name: pine-studio-web-secrets
+spec:
+  encryptedData:
+    DB_PASSWORD: AgVECFZnF53pW+cYrhgkCLcz4lT5hmsJ3s+R5zErrIb52bDZTiwy42JieRgOjxNsrmzzN2sOKafWCo2Mrq+0qaZybSG848NnKslFvafhm8UUIl3QaA073CQblfaGlYVbpROPk237ZwEVfj8/O2hN4pzsVGu6mKghFMmIM+jlnN78+VWqx/h+Mfg2JLvVBpReQ1wXoxz0rfcuvr3lRNln1Wpu8/s8iRsvIXSIJ7Dpzorxl7+uN1Ry1fJ5yaLua87qVKB+1YdEF4kF44kmLpN1Xyz3ziF7fglbqZ5t4nXd57Wfuz==
+    API_TOKEN: Ag28oqDKaxYQDjtSXNsB1ttManvyU0EvEut646mwf1jRyeT2ETKdM4tHOQ08baGjQySu4K+t07LmcflwfXHWg2M6r8N5LK6j8vY2y2I9w8tXdwzSumAdG5k/9phKvyMaykicCxosGLq0bKRqTB7DBK7MZKyPpfxnA8Bccf/+KJW75FgXHKMmJj/7XdcFPEux5kGp0N83rAONU2E962uIKNFF5CJjNiNbqwEANmyeySUt9HYxI0/tmrfIaIafogDU3PCw1cUDulOaoTKQ9OAmfJRU2BHRVcMD8b65++KvHlOeGO==
